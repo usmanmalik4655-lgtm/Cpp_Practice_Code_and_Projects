@@ -1,12 +1,12 @@
-#include <iostream>
-using namespace std;
+#include<iostream>
+using namespace std ;
 int main() {
-   int first_number, second_number, sum;
-   cout << "Enter two integers: ";
-   cin >> first_number >> second_number;
-   // sum of two numbers is stored in variable sum
-   sum = first_number + second_number;
-   // prints sum
-   cout << first_number << " + " << second_number << " = " << sum;
-   return 0;
+    int r ;
+    cout<<"enter your value"<<endl ;
+    cin>>r;
+
+    cout<<"area :"<<3.14*r*r<<endl;
+
+    return 0 ;
+
 }
