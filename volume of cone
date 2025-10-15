@@ -1,0 +1,11 @@
+#include<iostream>
+int main () {
+int r,h;
+cout<<"enter value :"<<endl;
+cin>>r>>h;
+cout<<"volume :"<<0.3*3.14*r*r*h<<endl ;
+
+return 0;
+
+
+}
