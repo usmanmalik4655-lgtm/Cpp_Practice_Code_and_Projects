@@ -1,4 +1,5 @@
 #include<iostream>
+using namespace std ;
 int main () {
 int r,h;
 cout<<"enter value :"<<endl;
