@@ -5,7 +5,7 @@ int main() {
     int r ;
     cout<<"enter value :"<<endl;
     cin>>r;
-    cout<<"circumference ;"2*3.14*r ;
+    cout<<"circumference ;"<<2*3.14*r ;
     return 0;
 
 }
