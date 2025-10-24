@@ -10,7 +10,7 @@ int main () {
     else if(su>=400 && su<=600) {
         cout<<"warning near limit :"<<endl;
     }
-    else if(su>=600) {
+    else {
         cout<<"overload! reduce weight :"<<endl;
     }
     return 0;

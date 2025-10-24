@@ -13,7 +13,7 @@ int main() {
     else if (su>=31 && su<=80) {
         cout<<"NORMAL BATTERY :"<<endl;
     }
-    else if (su>80) {
+    else  {
         cout<<"FULL BATTERY :"<<endl;
     }
     return 0 ;

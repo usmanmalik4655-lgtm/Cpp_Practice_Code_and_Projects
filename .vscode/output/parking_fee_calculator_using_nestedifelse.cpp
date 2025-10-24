@@ -13,7 +13,7 @@ int main() {
     else if(su>=5 && su<=8) {
         cout<<"RS 100 :"<<endl;
     }
-    else if (su>8) {
+    else  {
         cout<<"RS 200 :"<<endl;
     }
     return 0;

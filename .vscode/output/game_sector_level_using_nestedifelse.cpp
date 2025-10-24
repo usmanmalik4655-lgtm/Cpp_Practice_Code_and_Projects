@@ -13,7 +13,8 @@ int main() {
     else if(su>=501 && su<=1000) {
         cout<<"EXPERT :"<<endl;
     }
-    else if (su>1000) {
+    else {
      cout<<"LEGEND :"<<endl;
     }
+    return 0;
 }
