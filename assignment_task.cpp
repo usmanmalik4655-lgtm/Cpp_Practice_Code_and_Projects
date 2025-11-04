@@ -1,9 +1,9 @@
 #include<iostream>
 using namespace std;
 int main () {
-    string USMAN ;
+    string ata ;
     cout<<"PLEASE ENTER YOUR NAME :"<<endl;
-    cin>>USMAN;
+    cin>>ata;
 
     cout<<"THANKS SIR FOR COMING :"<<endl;
     cout<<"this program is for your financial health :"<<endl;
